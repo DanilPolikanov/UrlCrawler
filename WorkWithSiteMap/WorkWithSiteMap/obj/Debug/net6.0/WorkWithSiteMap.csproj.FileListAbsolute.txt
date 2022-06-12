@@ -1,0 +1,30 @@
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.exe
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.deps.json
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.runtimeconfig.json
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.dll
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.pdb
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.csproj.AssemblyReference.cache
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.AssemblyInfoInputs.cache
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.AssemblyInfo.cs
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.csproj.CoreCompileInputs.cache
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.dll
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\refint\WorkWithSiteMap.dll
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.pdb
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.genruntimeconfig.cache
+D:\Games\Даня\My projects\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\ref\WorkWithSiteMap.dll
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.exe
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.deps.json
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.runtimeconfig.json
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.dll
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\bin\Debug\net6.0\WorkWithSiteMap.pdb
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.csproj.AssemblyReference.cache
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.AssemblyInfoInputs.cache
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.AssemblyInfo.cs
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.csproj.CoreCompileInputs.cache
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.dll
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\refint\WorkWithSiteMap.dll
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.pdb
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\WorkWithSiteMap.genruntimeconfig.cache
+E:\Даня\repos\WorkWithSiteMap\WorkWithSiteMap\obj\Debug\net6.0\ref\WorkWithSiteMap.dll
